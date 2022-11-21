@@ -1,0 +1,8 @@
+nome = input("Qual é o seu nome? ")
+print (nome)
+idade = int (input ("Qual é a sua idade?"))
+print(nome)
+print (idade)
+print (f'Olá meu nome é {nome} e minha idade é {idade}')
+endereco = (input ("Qual é o seu endereço?"))
+print (f'Olá, meu nome é {nome}, minha idade é {idade} e moro em {endereco}')
